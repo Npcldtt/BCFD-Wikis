@@ -1,3 +1,3 @@
 # My BCFD Wikis:
 
-[How Many Days???](HMD.js)\n[Age Calculator](AC.js)
+[How Many Days???](HMD.js)                           [Age Calculator](AC.js)
