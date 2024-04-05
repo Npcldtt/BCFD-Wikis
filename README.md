@@ -3,3 +3,5 @@
 [How Many Days???](HMD.js)
 
 [Age Calculator](AC.js)
+
+[Google Search](GS.js)
