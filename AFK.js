@@ -1,6 +1,7 @@
 $eval
 
 // made by voixxx \\
+// enable phrase \\
 
 var afk$ID = afk$ID
 var phrase = "$messageAfterCommand"
